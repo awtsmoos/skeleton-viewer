@@ -1,0 +1,7 @@
+{
+  "name": "Divine Creator Engine 3D",
+  "description": "A native WebGL movie generation studio powered by Gemini. Features a full NLE, 3D viewport, and AI-driven scripting and audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
